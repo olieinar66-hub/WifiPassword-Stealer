@@ -15,8 +15,8 @@ var = 2
 # ==============================
 # ==============================
 
-YOUR_USERNAME = "YOUR_USERNAME"
-YOUR_PASSWORD= "YOUR_PASSWORD"
+YOUR_USERNAME = "olieinar66@gmail.com"
+YOUR_PASSWORD= "Einar8april123!3"
 
 # ==============================
 # ==============================
